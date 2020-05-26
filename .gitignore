@@ -1,0 +1,18 @@
+# default:
+blob-store
+compile-cache
+dev
+storage
+.apm
+.node-gyp
+.npm
+# .atom-socket-secret* files are temporary files and can be ignored
+# https://github.com/atom/atom/issues/19334
+.atom-socket-secret-*
+# for atom settings backup, only .json, .cson, .coffee and .less are needed
+# thus packages/ and recovery/ folder can be ignored
+# see https://discuss.atom.io/t/how-to-backup-all-your-settings/15674
+packages/
+recovery/
+# https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/23
+atom-shell/
