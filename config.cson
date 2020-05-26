@@ -1,4 +1,5 @@
 "*":
+  Hydrogen: {}
   "atom-latex":
     focus_viewer: true
     save_on_build: true
@@ -28,6 +29,7 @@
     opener: "pdf-view"
   "linter-ui-default":
     panelHeight: 307
+    showPanel: true
   "pdf-view":
     fitToWidthOnOpen: true
     paneToUseInSynctex: "right"
