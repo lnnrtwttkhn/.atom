@@ -30,3 +30,9 @@
 # If you are unfamiliar with CSON, you can read more about it in the
 # Atom Flight Manual:
 # http://flight-manual.atom.io/using-atom/sections/basic-customization/#configuring-with-cson
+
+
+# use 'ctrl-shift-m' to create the pipeline operator in R
+# see http://www.goring.org/resources/atom_and_r.html
+'atom-text-editor':
+  'ctrl-shift-m': 'custom:piper'
