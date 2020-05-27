@@ -63,6 +63,9 @@
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
+".python.source":
+  editor:
+    softWrap: false
 ".r.source":
   editor:
     softWrap: false
