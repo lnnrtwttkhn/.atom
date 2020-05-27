@@ -20,4 +20,5 @@ apm list --installed --bare > ~/.atom/package.list
 * [Which Atom configuration files to export](https://gist.github.com/michalczukm/e9b8082621057cdd24bb)
 * [How to execute R code in Atom with the Hydrogen package](https://github.com/nteract/hydrogen/issues/881)
 * [Using the Atom editor with R](http://www.goring.org/resources/atom_and_r.html)
-* [GitHub Issue discussion on how to fix IncludeInfo issue in ``tablr`](https://github.com/abe33/atom-tablr/issues/100)
+* [GitHub Issue discussion on how to fix IncludeInfo issue in `tablr`](https://github.com/abe33/atom-tablr/issues/100)
+* [How to specify a virtual environment (here, `conda` environment in which Hydrogen starts](https://github.com/nteract/hydrogen/issues/899)
