@@ -29,7 +29,7 @@
     buildOnSave: true
     opener: "pdf-view"
   "linter-ui-default":
-    panelHeight: 307
+    panelHeight: 137
     showPanel: true
   "pdf-view":
     fitToWidthOnOpen: true
@@ -55,9 +55,6 @@
       "source.rst"
       "text.restructuredtext"
       "text.tex.latex"
-    ]
-    locales: [
-      "en-US"
     ]
   welcome:
     showOnStartup: false
