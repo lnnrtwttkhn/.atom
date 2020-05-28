@@ -2,6 +2,7 @@ Hydrogen@2.14.1
 atom-beautify@0.33.4
 atom-file-icons@0.7.1
 atom-ide-ui@0.13.0
+atom-ide-vue@1.3.1
 atom-language-r@1.4.8
 atom-python-virtualenv@1.0.4
 atom-runner@2.7.1
@@ -14,6 +15,7 @@ docblock-python@0.19.0
 grammar-token-limit@0.1.1
 hydrogen-launcher@1.2.2
 hydrogen-python@0.0.8
+ide-yaml@0.7.0
 intentions@1.1.5
 language-csv@1.1.2
 language-latex@1.2.0
@@ -25,7 +27,9 @@ latex-autocomplete@1.1.1
 latex-wordcount@0.6.0
 linter@2.3.1
 linter-flake8@2.4.0
+linter-js-yaml@1.4.6
 linter-lintr@1.2.0
+linter-matlab@1.3.0
 linter-ui-default@1.8.1
 markdown-writer@2.11.10
 pdf-view@0.72.0

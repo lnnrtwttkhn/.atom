@@ -30,7 +30,6 @@
     opener: "pdf-view"
   "linter-ui-default":
     panelHeight: 137
-    showPanel: true
   "pdf-view":
     fitToWidthOnOpen: true
     paneToUseInSynctex: "right"
