@@ -17,7 +17,7 @@
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
   editor:
-    fontSize: 17
+    fontSize: 18
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
@@ -54,6 +54,7 @@
       "source.rst"
       "text.restructuredtext"
       "text.tex.latex"
+      "text.md"
     ]
   welcome:
     showOnStartup: false
