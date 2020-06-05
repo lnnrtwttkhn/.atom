@@ -10,8 +10,7 @@ Atom    : 1.47.0
 Electron: 5.0.13
 Chrome  : 73.0.3683.121
 Node    : 12.0.0
-``
-
+```
 
 ## Usage
 
