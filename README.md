@@ -4,10 +4,16 @@ This repository contains all files needed to configure my Atom text editor.
 
 ## Usage
 
-To track installed packages:
+To save a list of all  installed packages:
 
 ```bash
 apm list --installed --bare > ~/.atom/package.list
+```
+
+To restore packages using this list:
+
+```bash
+apm install --packages-file ~/.atom/package.list
 ```
 
 ## References
