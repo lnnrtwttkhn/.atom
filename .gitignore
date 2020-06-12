@@ -16,3 +16,5 @@ packages/
 recovery/
 # https://discuss.atom.io/t/syncing-settings-packages-between-machines/1385/23
 atom-shell/
+/site
+.DS_Store
