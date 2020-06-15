@@ -38,3 +38,4 @@ apm install --packages-file ~/.atom/package.list
 * [Using the Atom editor with R](http://www.goring.org/resources/atom_and_r.html)
 * [GitHub Issue discussion on how to fix IncludeInfo issue in `tablr`](https://github.com/abe33/atom-tablr/issues/100)
 * [How to specify a virtual environment (here, `conda` environment in which Hydrogen starts](https://github.com/nteract/hydrogen/issues/899)
+* [How to move the Tree View panel in Atom](https://discuss.atom.io/t/where-did-the-show-tree-view-on-right-side-option-go/42762)
