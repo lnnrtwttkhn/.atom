@@ -8,16 +8,20 @@
   autosave:
     enabled: true
   core:
+    closeDeletedFileTabs: true
     disabledPackages: [
       "latex-wordcount"
       "atom-ide-ui"
       "language-gfm"
+      "minimap-split-diff"
+      "minimap-git-diff"
+      "minimap"
     ]
     packagesWithKeymapsDisabled: []
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
   editor:
-    fontSize: 18
+    fontSize: 19
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
@@ -26,14 +30,28 @@
   "grammar-token-limit":
     maxTokensPerLine: 200
   latex:
-    buildOnSave: true
+    enableShellEscape: true
     opener: "pdf-view"
   "linter-ui-default":
-    panelHeight: 137
+    panelHeight: 206
+  "markdown-preview":
+    breakOnSingleNewline: true
+    useGitHubStyle: true
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "split-diff": true
+      "split-diffDecorationsZIndex": 0
   "pdf-view":
     fitToWidthOnOpen: true
     paneToUseInSynctex: "right"
   "platformio-ide-terminal":
+    ansiColors:
+      zBright:
+        brightBlue: "#fbd200"
+    iconColors:
+      blue: "#ffa500"
     style: {}
     toggles: {}
   script:
@@ -56,6 +74,7 @@
       "text.tex.latex"
       "text.md"
     ]
+  "tree-view": {}
   welcome:
     showOnStartup: false
 ".bibtex.text":
