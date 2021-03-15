@@ -17,11 +17,12 @@
       "minimap-git-diff"
       "minimap"
     ]
+    excludeVcsIgnoredPaths: false
     packagesWithKeymapsDisabled: []
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
   editor:
-    fontSize: 19
+    fontSize: 18
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
@@ -33,7 +34,8 @@
     enableShellEscape: true
     opener: "pdf-view"
   "linter-ui-default":
-    panelHeight: 206
+    panelHeight: 351
+  "local-history": {}
   "markdown-preview":
     breakOnSingleNewline: true
     useGitHubStyle: true
