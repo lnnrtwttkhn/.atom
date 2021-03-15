@@ -36,3 +36,4 @@
 # see http://www.goring.org/resources/atom_and_r.html
 'atom-text-editor':
   'ctrl-shift-m': 'custom:piper'
+  'ctrl-shift-d': 'date:datetime'
