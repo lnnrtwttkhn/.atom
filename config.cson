@@ -14,8 +14,6 @@
       "atom-ide-ui"
       "language-gfm"
       "minimap-split-diff"
-      "minimap-git-diff"
-      "minimap"
     ]
     excludeVcsIgnoredPaths: false
     packagesWithKeymapsDisabled: []
