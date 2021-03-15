@@ -19,6 +19,8 @@
     packagesWithKeymapsDisabled: []
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
+  date:
+    dateTimeFormat: "YYYYMMDDHmmss"
   editor:
     fontSize: 18
     showIndentGuide: true
