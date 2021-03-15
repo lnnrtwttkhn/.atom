@@ -7,6 +7,7 @@ atom-language-r@1.4.8
 atom-python-virtualenv@1.0.4
 atom-runner@2.7.1
 autocomplete-R@0.6.0
+autocomplete-bibtex@1.2.10
 autocomplete-latex-cite@0.3.5
 autocomplete-paths@2.13.0
 autocomplete-python@1.17.0

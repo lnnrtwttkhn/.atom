@@ -3,6 +3,10 @@
   "atom-latex":
     focus_viewer: true
     save_on_build: true
+  "autocomplete-bibtex":
+    bibtex: [
+      "~/Documents/bibliography/code/bibliography.bib"
+    ]
   "autocomplete-python":
     useKite: false
   autosave:
