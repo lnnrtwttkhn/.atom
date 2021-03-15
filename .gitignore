@@ -18,3 +18,5 @@ recovery/
 atom-shell/
 /site
 .DS_Store
+local-history
+split-diff
