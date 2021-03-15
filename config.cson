@@ -43,6 +43,8 @@
   "markdown-preview":
     breakOnSingleNewline: true
     useGitHubStyle: true
+  "markdown-preview-enhanced":
+    usePandocParser: true
   minimap:
     plugins:
       "git-diff": true
