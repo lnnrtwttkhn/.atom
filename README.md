@@ -6,10 +6,10 @@ This repository contains all files needed to configure my Atom text editor.
 
 ```bash
 $ atom -v
-Atom    : 1.47.0
-Electron: 5.0.13
-Chrome  : 73.0.3683.121
-Node    : 12.0.0
+Atom    : 1.56.0
+Electron: 9.4.4
+Chrome  : 83.0.4103.122
+Node    : 12.14.1
 ```
 
 ## Usage
