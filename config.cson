@@ -1,5 +1,7 @@
 "*":
   Hydrogen: {}
+  "atom-html-preview":
+    scrollToCursor: true
   "atom-latex":
     focus_viewer: true
     save_on_build: true
@@ -7,6 +9,7 @@
     bibtex: [
       "~/Documents/bibliography/code/bibliography.bib"
     ]
+  "autocomplete-emojis": {}
   "autocomplete-python":
     useKite: false
   autosave:
@@ -18,15 +21,17 @@
       "atom-ide-ui"
       "language-gfm"
       "minimap-split-diff"
+      "linter-spell"
     ]
     excludeVcsIgnoredPaths: false
     packagesWithKeymapsDisabled: []
     restorePreviousWindowsOnStart: "no"
     telemetryConsent: "no"
+    useTreeSitterParsers: false
   date:
     dateTimeFormat: "YYYYMMDDHmmss"
   editor:
-    fontSize: 18
+    fontSize: 21
     showIndentGuide: true
     softWrap: true
     softWrapAtPreferredLineLength: true
@@ -34,6 +39,10 @@
     userId: "441bfa58-7549-4550-ad19-20110d2d8584"
   "grammar-token-limit":
     maxTokensPerLine: 200
+  "ide-python":
+    pylsPlugins:
+      flake8:
+        enabled: true
   latex:
     enableShellEscape: true
     opener: "pdf-view"
@@ -44,6 +53,7 @@
     breakOnSingleNewline: true
     useGitHubStyle: true
   "markdown-preview-enhanced":
+    enableExtendedTableSyntax: true
     usePandocParser: true
   minimap:
     plugins:
