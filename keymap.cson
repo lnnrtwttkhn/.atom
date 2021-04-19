@@ -37,3 +37,4 @@
 'atom-text-editor':
   'ctrl-shift-m': 'custom:piper'
   'ctrl-shift-d': 'date:datetime'
+  'cmd-alt-i': 'editor:auto-indent' #https://sebastianwuerfel.com/automatische-einrueckung-auto-indent-in-atom-shortcut/
